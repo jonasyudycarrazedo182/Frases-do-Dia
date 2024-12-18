@@ -1,4 +1,4 @@
-# Banco Ram
+# Frases - del - dia
 ESPAÑOL:
 Este proyecto consiste en un prototipo de diseño para una aplicación bancaria, diseñado para ofrecer una experiencia de usuario fluida, segura e intuitiva. El diseño prioriza elementos clave para una aplicación financiera moderna, destacando la accesibilidad, la funcionalidad y la estética visual.
 
@@ -10,7 +10,7 @@ This project consists of a prototype design for a banking application, designed 
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/bc87d084-0808-42ec-aae4-7dad92bf6bae" width=260/> <img src="https://github.com/user-attachments/assets/f37c92ba-b24d-4b20-a4ca-8b4445b4492c" width=260/>
+<img src="https://github.com/user-attachments/assets/92fb9145-2ea7-46a2-b7b5-4c95ae5f6052" width=260/> <img src="https://github.com/user-attachments/assets/47ba9695-31d4-4765-aa1e-8d7af4171a30" width=260/>
 
 
 
