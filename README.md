@@ -1,12 +1,12 @@
 # Frases del dia
 ESPAÑOL:
-Este proyecto consiste en un prototipo de diseño para una aplicación bancaria, diseñado para ofrecer una experiencia de usuario fluida, segura e intuitiva. El diseño prioriza elementos clave para una aplicación financiera moderna, destacando la accesibilidad, la funcionalidad y la estética visual.
+Frase del Día es una aplicación diseñada para brindar inspiración, motivación y reflexión en tu día a día. Con una colección diversa de citas de grandes pensadores, escritores, líderes y personalidades a lo largo de la historia, la aplicación ofrece frases cuidadosamente seleccionadas para diferentes momentos y estados de ánimo. Ya sea para comenzar el día con energía positiva, encontrar una nueva perspectiva o simplemente apreciar la sabiduría de palabras impactantes, Frase del Día está aquí para enriquecer tu rutina con pequeñas dosis de inspiración.
 
 PORTUGUES:
-Este projeto consiste em um protótipo de design para um aplicativo bancário, idealizado para proporcionar uma experiência de usuário fluida, segura e intuitiva. O design prioriza elementos cruciais para um aplicativo financeiro contemporâneo, com destaque para acessibilidade, funcionalidade e estética visual.
+O Frase do Dia é um aplicativo pensado para trazer inspiração, motivação e reflexão ao seu dia a dia. Com uma coleção diversificada de citações de grandes pensadores, escritores, líderes e personalidades ao longo da história, o aplicativo oferece frases cuidadosamente selecionadas para diferentes momentos e estados de espírito. Seja para começar o dia com energia positiva, encontrar uma nova perspectiva ou apenas apreciar a sabedoria de palavras marcantes, o Frase do Dia está aqui para enriquecer sua rotina com pequenas doses de inspiração.
 
 ENGLISH:
-This project consists of a prototype design for a banking application, designed to deliver a smooth, secure, and intuitive user experience. The design prioritizes key elements for a modern financial application, with a focus on accessibility, functionality, and visual aesthetics.
+Phrase of the Day is an app designed to bring inspiration, motivation, and reflection to your daily life. With a diverse collection of quotes from great thinkers, writers, leaders, and historical figures, the app offers carefully curated phrases for different moments and moods. Whether you want to start your day with positive energy, gain a new perspective, or simply enjoy the wisdom of impactful words, Phrase of the Day is here to enrich your routine with small doses of inspiration.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -15,17 +15,14 @@ This project consists of a prototype design for a banking application, designed 
 
 
 ## Technologies
-- Intent
-- Toolbar
 - Binding
-- CreditCardView
-- Snackbar
+- Array
 - Activity
 - ViewGroups
+  -ScrollView
   -LinearLayout
   -ConstraintLayout
 - View
   -ImageView
   -Textview
-  -EditText
   -Button    
